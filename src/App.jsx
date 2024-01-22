@@ -8,7 +8,7 @@ const App = () => {
  
   
   return (
-<main className="App">
+<main className="">
   <Sidebar>
  <SideItem icon={<LayoutDashboard size={20}/>} text='Dashboard' alert/>
  <SideItem icon={<BarChart3 size={20}/>} text='Statistics' active/>
